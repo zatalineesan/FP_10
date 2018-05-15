@@ -1,2 +1,2 @@
 # IllustHub
-Project ini berisi template website yang dibuat untuk para ilsutrator | Developer : Team10
+Project ini berisi template website yang dibuat untuk para ilustrator | Developer : Team10
